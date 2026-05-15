@@ -1,0 +1,1 @@
+{SinOsc.ar(MouseX.kr(55,55*256))!2}.play
